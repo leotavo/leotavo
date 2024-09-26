@@ -1,4 +1,10 @@
-## Hi there 👋
+# Olá! 👋
+
+Bem-vindo ao meu perfil GitHub.
+
+Aqui você encontrará uma coleção dos meus trabalhos e colaborações. Sinta-se à vontade para explorar!
+
+[GitHub](https://github.com/leotavo)
 
 <!--
 **leotavo/leotavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
