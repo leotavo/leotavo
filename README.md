@@ -16,7 +16,7 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 📌 **Position:** Regulation and Health Surveillance Technician | IT Project Leader  
 ✨ **Passion for:** Innovation, problem-solving, and creating impactful solutions in technology.  
 
-🌐 **Portfolio:** [My Portifolio](https://leotavo.github.io/leotavo/)
+🌐 [My Portifolio](https://leotavo.github.io/leotavo/)
 
 ---
 
