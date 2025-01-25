@@ -1,26 +1,26 @@
 ![Header](https://github.com/leotavo/leotavo/blob/main/assets/header-github.png)
 
-<div align="center" style="background: #1e1e2f; padding: 20px; border-radius: 10px; color: white;">
-
 # Hello! 👋
 
-Welcome to my GitHub profile!  
-Here, you'll find a collection of my projects, research, and collaborations. Feel free to explore and connect with me! 🚀
-
-</div>
+Welcome to my GitHub profile.  
+Here, you'll find a collection of my projects, research, and collaborations. Feel free to explore and connect with me!
 
 ---
 
 ## 💼 About Me  
-👤 **Name:** Leonardo Trindade  
+🙋‍♂️ **Name:** Leonardo Trindade  
 🎓 **Student:** Federal Institute of Bahia (IFBA), pursuing a degree in Systems Analysis and Development  
 🌍 **Location:** Born and living in Salvador, Bahia, Brazil  
 
-🏢 **Institution:** National Health Surveillance Agency (ANVISA)  
-📌 **Position:** Regulation and Health Surveillance Technician | IT Project Leader  
-✨ **Passion for:** Innovation, problem-solving, and creating impactful solutions in technology.  
-
-🌐 **Portfolio:** [My GitHub Pages Website](https://leotavo.github.io/leotavo/)
+🏛️ **Institution:** National Health Surveillance Agency (**[ANVISA](https://www.gov.br/anvisa/pt-br)**)  
+📌 **Position:** Regulation and Health Surveillance Technician | Federal Public Employee  
+💼 **Department:** IT Solutions Management (**[GESOL](https://www.gov.br/anvisa/pt-br/assuntos/gesol)**)  
+📅 **Since:** February 2014  
+🛠️ **Main Responsibilities:**  
+   - 🧑‍💻 Lead IT projects at **GESOL**, including **[Solicita System](https://www.gov.br/anvisa/pt-br/sistemas/peticionamento)**, **AI-based Company Compliance Monitoring** projects, and the **[Meeting Scheduling System (Parlatório)](https://www.sydle.com/)** developed using a low-code platform.  
+   - 📋 Oversee contract management for IT solutions developed by third-party companies like **[SPASSU](https://www.spassu.com.br/)** and **[SYDLE](https://www.sydle.com/)**.  
+   - ⚙️ Provide technical support to Anvisa's development teams and contribute to solution proposals and issue resolution to ensure project success.  
+   - 📈 Lead cross-functional teams using **Scrum** and **Kanban** methodologies to deliver innovative solutions for the public sector.
 
 ---
 
@@ -28,13 +28,13 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 💡 **Current Research:**  
 **"CareWell: A Monitoring and Support App for Elderly People with Alzheimer’s and Their Caregivers"**  
 - 🧠 **Goal:** Develop an AI-powered application for real-time behavioral monitoring and caregiver support.  
-- 🌟 **Impact:** Enhance quality of life for Alzheimer’s patients and their caregivers through technology.  
+- 🌟 **Impact:** Enhance the quality of life for Alzheimer’s patients and their caregivers through technology.  
 
 ---
 
 ## 🚀 Areas of Interest  
 💻 Backend development with **Java** and **Spring Boot**  
-🔧 **DevOps:** CI/CD, GitLab, Rancher, Kubernetes, and Docker  
+🔧 **DevOps**: CI/CD, GitLab, Rancher, Kubernetes, and Docker  
 🤖 AI-driven solutions, **NLP**, and intelligent systems  
 ⚙️ Automation using **Power Automate** and **Python**  
 📈 Agile methodologies: **Scrum** and **Kanban**
@@ -42,56 +42,73 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 ---
 
 ## 🌱 Currently Learning  
-- 📚 Advanced **Spring Boot** for enterprise-grade backend solutions  
-- 🤖 **Python** for AI and data analysis  
-- 🛠️ **DevOps tools:** Docker, Jenkins, and Kubernetes  
+- 📚 Advanced **Spring Boot** for enterprise-grade backend solutions.  
+- 🤖 **Python** for AI and data analysis.  
+- 🛠️ **DevOps tools**: Docker, Jenkins, and Kubernetes.
 
 ---
 
 ## 🔭 Featured Projects  
-### **1. CareWell App**  
-🧠 *A Monitoring and Support App for Elderly People with Alzheimer’s and Their Caregivers*  
-- **Status:** Research and development phase  
 
-### **2. Power Automate Workflow Solutions**  
-🔧 *Workflow automation tools designed to increase public sector efficiency*  
-- **Status:** Conceptualization phase  
+### **1. Digital Transformation Projects at Anvisa**  
+🔄 **[Digital Transformation Plan (Plano de Transformação Digital)](https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/planos-de-transformacao-digital/ptds-vigentes/anvisa_ptd_02_2024_1-copia_tarjada.pdf):**  
+Conducted by **Anvisa** in collaboration with **[SPASSU](https://www.spassu.com.br/)** and **[SYDLE](https://www.sydle.com/)**, these projects aim to modernize workflows and improve digital services.
 
-### **3. Spring Boot API for Public Sector Services**  
-📈 *Backend services for efficient data management in public organizations*  
-- **Status:** Idea stage  
+#### **Evolutive Projects in the [Solicita System](https://www.gov.br/anvisa/pt-br/sistemas/peticionamento):**  
+The **Solicita System** is Anvisa's electronic petitioning platform, launched in 2019 to streamline and digitize regulatory service requests. It eliminates paper-based processes, improves process efficiency, and aligns with Brazil's Digital Transformation Strategy. The following projects are focused on enhancing and scaling the functionality of this system:
+
+**Project in Partnership with [SPASSU](https://www.spassu.com.br/):**  
+1. 🏪 **Form for Authorization of Operation (AFE) for Pharmacies and Drugstores**  
+   - **Description:** This project enhances the process for issuing Authorization of Operation (AFE) for pharmacies and drugstores, ensuring the regulation of the pharmaceutical sector.  
+   - **Current Progress:** 89%  
+
+2. 🍽️ **Food Registration and Notification**  
+   - **Description:** Aimed at streamlining the registration and notification process for food products to meet regulatory standards.  
+   - **Current Progress:** 99%  
+
+3. 🧾 **Certificates and Certifications**  
+   - **Description:** Enhances the process for issuing certificates related to public health and safety standards.  
+   - **Current Progress:** 71%  
+
+4. 💄 **Cosmetic Product Notification – SGAS**  
+   - **Description:** Focuses on simplifying the notification process for cosmetic products to ensure safety compliance.  
+   - **Current Progress:** 96%  
+
+#### **Project in Partnership with [SYDLE](https://www.sydle.com/):**  
+5. 🗣️ **Meeting Scheduling System (Parlatório)**  
+   - *Developing a streamlined system for scheduling meetings, enhancing communication efficiency within Anvisa.*  
+   - *Technology:* Low-code development platform by Sydle.  
+   - *Status:* **Ideation phase completed using Lean Inception (Agile)** and currently in the **planning phase with SYDLE**.  
+
+### **AI for Public Administration - MOIRAS**  
+- ANVISA's project in partnership with **[4KST](https://4kst.com/)** and **[FINEP](https://www.finep.gov.br/)**
+- **Description:** Monitoring Company Compliance focusing on **predictive risk models** and **AI** to monitor the compliance of companies within regulatory frameworks. 
 
 ---
 
 ## 📈 GitHub Stats  
-<div align="center" style="background: #1e1e2f; padding: 10px; border-radius: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=leotavo&show_icons=true&theme=radical" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical" alt="Top Langs">
-</div>
+![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotavo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical)  
+[![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=leotavo&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📬 How to Reach Me  
-<div align="center">
-    <a href="https://github.com/leotavo" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/leonardo-trindade-8180628a/" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:leotavo@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-</div>
+- 💻 [GitHub](https://github.com/leotavo)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-trindade-8180628a/)  
+- 📧 Personal Email: [leotavo@gmail.com](mailto:leotavo@gmail.com)  
+- 📧 Corporate Email: [leonardo.jesus@anvisa.gov.br](mailto:leonardo.jesus@anvisa.gov.br)
+
+## 📄 Currículo  
+Você pode visualizar o meu currículo completo [aqui](https://curriculo.sougov.economia.gov.br/leonardo-jesus-508391263).  
+
 
 ---
 
 ## ⚡ Fun Fact  
-🎵 I enjoy solving problems while listening to Lo-Fi music  
-🌟 Always curious to learn new technologies and enhance productivity  
+🎵 I enjoy solving problems while listening to Lo-Fi music.  
+🌟 Always curious to learn new technologies and enhance productivity.  
 
 ---
 
-<div align="center">
-🌟 **Feel free to explore my projects and reach out for collaboration opportunities!** 🌟
-</div>
+🌟 **Feel free to explore my projects and reach out for collaboration opportunities!**
