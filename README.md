@@ -1,4 +1,4 @@
-![Header](https://github.com/leotavo/leotavo/blob/main/assets/header-github.png) 
+![Header](https://github.com/leotavo/leotavo/blob/main/assets/header-github.png)
 
 # Hello! 👋
 
@@ -21,50 +21,46 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 ## 📊 Research Project  
 💡 **Current Research:**  
 **"CareWell: A Monitoring and Support App for Elderly People with Alzheimer’s and Their Caregivers"**  
-- Developing a digital app integrating **AI** for real-time monitoring, behavioral alerts, and personalized caregiver support.  
-- Enhancing quality of life for Alzheimer’s patients and their caregivers through technology.  
+- 🧠 **Goal:** Develop an AI-powered application for real-time behavioral monitoring and caregiver support.  
+- 🌟 **Impact:** Enhance quality of life for Alzheimer’s patients and their caregivers through technology.  
 
 ---
 
 ## 🚀 Areas of Interest  
-- Backend development with **Java** and **Spring Boot**.  
-- **DevOps practices**: CI/CD, GitLab, Rancher, Kubernetes, and Docker.  
-- Automation using **Power Automate** and **Python**.  
-- AI-driven solutions, **NLP**, and intelligent systems.  
-- Agile methodologies: **Scrum** and **Kanban**.  
+💻 Backend development with **Java** and **Spring Boot**  
+🔧 **DevOps**: CI/CD, GitLab, Rancher, Kubernetes, and Docker  
+🤖 AI-driven solutions, **NLP**, and intelligent systems  
+⚙️ Automation using **Power Automate** and **Python**  
+📈 Agile methodologies: **Scrum** and **Kanban**
 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced **Spring Boot** for enterprise-grade backend solutions.  
-- **Python** for AI and data analysis.  
-- **DevOps tools**: Docker, Jenkins, and Kubernetes.  
+- 📚 Advanced **Spring Boot** for enterprise-grade backend solutions.  
+- 🤖 **Python** for AI and data analysis.  
+- 🛠️ **DevOps tools**: Docker, Jenkins, and Kubernetes.
 
 ---
 
 ## 🔭 Featured Projects  
-Even though I don’t have repositories for these projects yet, here are some ideas and concepts I’m currently working on or planning to develop:
+### **1. CareWell App**  
+🧠 *A Monitoring and Support App for Elderly People with Alzheimer’s and Their Caregivers.*  
+- **Status:** Research and development phase.  
 
-- **CareWell App**  
-  *A Monitoring and Support App for Elderly People with Alzheimer’s and Their Caregivers.*  
-  - **Status:** In research and development phase.  
-  - **Goal:** Develop an AI-powered application for real-time behavioral monitoring and caregiver support.  
+### **2. Power Automate Workflow Solutions**  
+🔧 *Workflow automation tools designed to increase public sector efficiency.*  
+- **Status:** Conceptualization phase.  
 
-- **Power Automate Workflow Solutions**  
-  *Workflow automation tools designed to increase public sector efficiency.*  
-  - **Status:** Conceptualization phase.  
-  - **Goal:** Automate repetitive processes in IT management using Power Automate.
+### **3. Spring Boot API for Public Sector Services**  
+📈 *Backend services for efficient data management in public organizations.*  
+- **Status:** Idea stage.
 
-- **Spring Boot API for Public Sector Services**  
-  *Backend services for efficient data management in public organizations.*  
-  - **Status:** Idea stage.  
-  - **Goal:** Develop APIs to integrate data across departments securely and efficiently.
-    
 ---
 
 ## 📈 GitHub Stats  
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotavo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical)  
+[![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=leotavo&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -79,3 +75,7 @@ Even though I don’t have repositories for these projects yet, here are some id
 ## ⚡ Fun Fact  
 🎵 I enjoy solving problems while listening to Lo-Fi music.  
 🌟 Always curious to learn new technologies and enhance productivity.  
+
+---
+
+🌟 **Feel free to explore my projects and reach out for collaboration opportunities!**  
