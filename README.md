@@ -1,4 +1,4 @@
-![Header](https://github.com/leotavo/leotavo/assets/header-image.webp) 
+![Header](https://github.com/leotavo/leotavo/assets/header-github.png) 
 
 # Hello! 👋
 
