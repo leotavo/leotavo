@@ -1,26 +1,42 @@
 ![Header](https://github.com/leotavo/leotavo/blob/main/assets/header-github.png)
 
-# Hello! 👋
-
-Welcome to my GitHub profile.  
-Here, you'll find a collection of my projects, research, and collaborations. Feel free to explore and connect with me!
+👋 **Hello, 🙋‍♂️ I'm Leonardo Trindade!**  
+I am an IT Project Leader at **[ANVISA](https://www.gov.br/anvisa/)**, passionate about transforming data and processes into intelligent solutions.
 
 ---
 
 ## 💼 About Me  
-🙋‍♂️ **Name:** Leonardo Trindade  
-🎓 **Student:** Federal Institute of Bahia (IFBA), pursuing a degree in Systems Analysis and Development  
+🎓 **Student:** Federal Institute of Bahia [IFBA](https://portal.ifba.edu.br/), pursuing a degree in [Systems Analysis and Development](https://portal.ifba.edu.br/salvador/ensino/cursos/superior/graduacao/ads/1)  
 🌍 **Location:** Born and living in Salvador, Bahia, Brazil  
-
 🏛️ **Institution:** National Health Surveillance Agency (**[ANVISA](https://www.gov.br/anvisa/pt-br)**)  
 📌 **Position:** Regulation and Health Surveillance Technician | Federal Public Employee  
-💼 **Department:** IT Solutions Management (**[GESOL](https://www.gov.br/anvisa/pt-br/assuntos/gesol)**)  
 📅 **Since:** February 2014  
+💼 **Department:** IT Solutions Management (**[GESOL](https://www.gov.br/anvisa/pt-br/assuntos/gesol)**)  
 🛠️ **Main Responsibilities:**  
    - 🧑‍💻 Lead IT projects at **GESOL**, including **[Solicita System](https://www.gov.br/anvisa/pt-br/sistemas/peticionamento)**, **AI-based Company Compliance Monitoring** projects, and the **[Meeting Scheduling System (Parlatório)](https://www.sydle.com/)** developed using a low-code platform.  
    - 📋 Oversee contract management for IT solutions developed by third-party companies like **[SPASSU](https://www.spassu.com.br/)** and **[SYDLE](https://www.sydle.com/)**.  
    - ⚙️ Provide technical support to Anvisa's development teams and contribute to solution proposals and issue resolution to ensure project success.  
    - 📈 Lead cross-functional teams using **Scrum** and **Kanban** methodologies to deliver innovative solutions for the public sector.
+
+---
+
+## 🛠️ Skills  
+### **Technical Skills**  
+- 🔄 **Interoperability of Systems**  
+- ⚙️ **Process Automation:** Power Automate, Python, Shell scripts  
+- 📊 **Data Analysis and Database Management:** SQL, PostgreSQL, Power BI, Advanced Excel  
+- 🖥️ **Software Development Languages and Frameworks:** Java, C++, Python, Spring Boot, HTML, CSS, JavaScript
+- 📚 **Agile Methodologies:** Scrum, Kanban, PMBOK  
+- 🗣️ **Official Writing**  
+- 📘 **Intermediate-Advanced English (B2)**  
+- 💻 **Microsoft 365 Tools**  
+
+### **Soft Skills**  
+- 💡 **Self-awareness and Personal Development**  
+- 🗣️ **Communication**  
+- 👥 **Engagement with People and Teams**  
+- 🎯 **Results-oriented Management**  
+- 🚀 **Innovation and Change** 
 
 ---
 
@@ -54,10 +70,9 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 🔄 **[Digital Transformation Plan (Plano de Transformação Digital)](https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/planos-de-transformacao-digital/ptds-vigentes/anvisa_ptd_02_2024_1-copia_tarjada.pdf):**  
 Conducted by **Anvisa** in collaboration with **[SPASSU](https://www.spassu.com.br/)** and **[SYDLE](https://www.sydle.com/)**, these projects aim to modernize workflows and improve digital services.
 
-#### **Evolutive Projects in the [Solicita System](https://www.gov.br/anvisa/pt-br/sistemas/peticionamento):**  
+#### **Projects in the [Solicita System](https://www.gov.br/anvisa/pt-br/sistemas/peticionamento) in Partnership with [SPASSU](https://www.spassu.com.br/):**  
 The **Solicita System** is Anvisa's electronic petitioning platform, launched in 2019 to streamline and digitize regulatory service requests. It eliminates paper-based processes, improves process efficiency, and aligns with Brazil's Digital Transformation Strategy. The following projects are focused on enhancing and scaling the functionality of this system:
 
-**Project in Partnership with [SPASSU](https://www.spassu.com.br/):**  
 1. 🏪 **Form for Authorization of Operation (AFE) for Pharmacies and Drugstores**  
    - **Description:** This project enhances the process for issuing Authorization of Operation (AFE) for pharmacies and drugstores, ensuring the regulation of the pharmaceutical sector.  
    - **Current Progress:** 89%  
@@ -75,13 +90,12 @@ The **Solicita System** is Anvisa's electronic petitioning platform, launched in
    - **Current Progress:** 96%  
 
 #### **Project in Partnership with [SYDLE](https://www.sydle.com/):**  
-5. 🗣️ **Meeting Scheduling System (Parlatório)**  
-   - *Developing a streamlined system for scheduling meetings, enhancing communication efficiency within Anvisa.*  
-   - *Technology:* Low-code development platform by Sydle.  
-   - *Status:* **Ideation phase completed using Lean Inception (Agile)** and currently in the **planning phase with SYDLE**.  
+5. 🗣️ **Meeting Scheduling System**  
+   - **Description:** Developing a streamlined system for scheduling meetings, enhancing communication efficiency within Anvisa.   
+   - **Technology:** Low-code development platform by Sydle.  
+   - **Status:** Ideation phase completed using **Lean Inception (Agile)** and currently in the **planning phase with SYDLE**.  
 
-### **AI for Public Administration - MOIRAS**  
-- ANVISA's project in partnership with **[4KST](https://4kst.com/)** and **[FINEP](https://www.finep.gov.br/)**
+### **AI for Public Administration - MOIRAS** - ANVISA's project in partnership with **[4KST](https://4kst.com/)** and **[FINEP](https://www.finep.gov.br/)**
 - **Description:** Monitoring Company Compliance focusing on **predictive risk models** and **AI** to monitor the compliance of companies within regulatory frameworks. 
 
 ---
