@@ -1,8 +1,12 @@
-<img src="https://github.com/leotavo/leotavo/blob/main/assets/header-github.png?raw=true" alt="Header" style="width:100%; display:block; margin:auto;">
+![Header](https://github.com/leotavo/leotavo/blob/main/assets/header-github.png)
 
-<div style="background: linear-gradient(120deg, #1e1e2f, #283c63); padding: 20px; border-radius: 10px; color: white; text-align: center;">
-    <h1>Hello! 👋</h1>
-    <p>Welcome to my GitHub profile! Explore my projects, research, and collaborations.</p>
+<div align="center" style="background: #1e1e2f; padding: 20px; border-radius: 10px; color: white;">
+
+# Hello! 👋
+
+Welcome to my GitHub profile!  
+Here, you'll find a collection of my projects, research, and collaborations. Feel free to explore and connect with me! 🚀
+
 </div>
 
 ---
@@ -15,6 +19,8 @@
 🏢 **Institution:** National Health Surveillance Agency (ANVISA)  
 📌 **Position:** Regulation and Health Surveillance Technician | IT Project Leader  
 ✨ **Passion for:** Innovation, problem-solving, and creating impactful solutions in technology.  
+
+🌐 **Portfolio:** [My GitHub Pages Website](https://leotavo.github.io/leotavo/)
 
 ---
 
@@ -35,14 +41,38 @@
 
 ---
 
+## 🌱 Currently Learning  
+- 📚 Advanced **Spring Boot** for enterprise-grade backend solutions  
+- 🤖 **Python** for AI and data analysis  
+- 🛠️ **DevOps tools:** Docker, Jenkins, and Kubernetes  
+
+---
+
+## 🔭 Featured Projects  
+### **1. CareWell App**  
+🧠 *A Monitoring and Support App for Elderly People with Alzheimer’s and Their Caregivers*  
+- **Status:** Research and development phase  
+
+### **2. Power Automate Workflow Solutions**  
+🔧 *Workflow automation tools designed to increase public sector efficiency*  
+- **Status:** Conceptualization phase  
+
+### **3. Spring Boot API for Public Sector Services**  
+📈 *Backend services for efficient data management in public organizations*  
+- **Status:** Idea stage  
+
+---
+
 ## 📈 GitHub Stats  
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotavo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical)
+<div align="center" style="background: #1e1e2f; padding: 10px; border-radius: 10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=leotavo&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical" alt="Top Langs">
+</div>
 
 ---
 
 ## 📬 How to Reach Me  
-<div style="text-align: center;">
+<div align="center">
     <a href="https://github.com/leotavo" target="_blank" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
@@ -62,4 +92,6 @@
 
 ---
 
-🌟 **Feel free to explore my projects and reach out for collaboration opportunities!**
+<div align="center">
+🌟 **Feel free to explore my projects and reach out for collaboration opportunities!** 🌟
+</div>
