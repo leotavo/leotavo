@@ -1,9 +1,9 @@
-![Header](https://github.com/leotavo/leotavo/blob/main/assets/header-github.png)
+<img src="https://github.com/leotavo/leotavo/blob/main/assets/header-github.png?raw=true" alt="Header" style="width:100%; display:block; margin:auto;">
 
-# Hello! 👋
-
-Welcome to my GitHub profile!  
-Here, you'll find a collection of my projects, research, and collaborations. Feel free to explore and connect with me! 🚀
+<div style="background: linear-gradient(120deg, #1e1e2f, #283c63); padding: 20px; border-radius: 10px; color: white; text-align: center;">
+    <h1>Hello! 👋</h1>
+    <p>Welcome to my GitHub profile! Explore my projects, research, and collaborations.</p>
+</div>
 
 ---
 
@@ -15,8 +15,6 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 🏢 **Institution:** National Health Surveillance Agency (ANVISA)  
 📌 **Position:** Regulation and Health Surveillance Technician | IT Project Leader  
 ✨ **Passion for:** Innovation, problem-solving, and creating impactful solutions in technology.  
-
-🌐 [My Portifolio](https://leotavo.github.io/leotavo/)
 
 ---
 
@@ -37,40 +35,24 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 
 ---
 
-## 🌱 Currently Learning  
-- 📚 Advanced **Spring Boot** for enterprise-grade backend solutions  
-- 🤖 **Python** for AI and data analysis  
-- 🛠️ **DevOps tools:** Docker, Jenkins, and Kubernetes  
-
----
-
-## 🔭 Featured Projects  
-### **1. CareWell App**  
-🧠 *A Monitoring and Support App for Elderly People with Alzheimer’s and Their Caregivers*  
-- **Status:** Research and development phase  
-
-### **2. Power Automate Workflow Solutions**  
-🔧 *Workflow automation tools designed to increase public sector efficiency*  
-- **Status:** Conceptualization phase  
-
-### **3. Spring Boot API for Public Sector Services**  
-📈 *Backend services for efficient data management in public organizations*  
-- **Status:** Idea stage  
-
----
-
 ## 📈 GitHub Stats  
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotavo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical)  
-[![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=leotavo&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotavo&layout=compact&theme=radical)
 
 ---
 
 ## 📬 How to Reach Me  
-- 💻 [GitHub](https://github.com/leotavo)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-trindade-8180628a/)  
-- 📧 Personal Email: [leotavo@gmail.com](mailto:leotavo@gmail.com)  
-- 📧 Corporate Email: [leonardo.jesus@anvisa.gov.br](mailto:leonardo.jesus@anvisa.gov.br)  
+<div style="text-align: center;">
+    <a href="https://github.com/leotavo" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/leonardo-trindade-8180628a/" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:leotavo@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+</div>
 
 ---
 
