@@ -50,7 +50,7 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 
 ## 🔭 Featured Projects  
 
-### **1. Digital Transformation Projects at Anvisa**  
+### **Digital Transformation Projects at Anvisa**  
 🔄 **[Digital Transformation Plan (Plano de Transformação Digital)](https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/planos-de-transformacao-digital/ptds-vigentes/anvisa_ptd_02_2024_1-copia_tarjada.pdf):**  
 Conducted by **Anvisa** in collaboration with **[SPASSU](https://www.spassu.com.br/)** and **[SYDLE](https://www.sydle.com/)**, these projects aim to modernize workflows and improve digital services.
 
