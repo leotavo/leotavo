@@ -8,7 +8,7 @@ Here, you'll find a collection of my projects, research, and collaborations. Fee
 ---
 
 ## 💼 About Me  
-👤 **Name:** Leonardo Trindade
+👤 **Name:** Leonardo Trindade  
 🎓 **Student at the Federal Institute of Bahia (IFBA), pursuing a degree in Systems Analysis and Development**  
 🌍 **Born and living in Salvador, Bahia, Brazil**  
 
