@@ -11,4 +11,4 @@ Além da minha atuação profissional, desenvolvo projetos pessoais como o **AIv
 ## 📬 Contato
 - 💻 [GitHub](https://github.com/leotavo)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leotavo/)
-- 📧 [leonardo.jesus@anvisa.gov.br](mailto:leonardo.jesus@anvisa.gov.br)
+- 📧 [leotavo@gmail.com](mailto:leotavo@gmail.com)
